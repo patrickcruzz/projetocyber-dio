@@ -36,19 +36,19 @@ Foi criado um ambiente virtualizado com duas máquinas:
 
 ### Ping entre máquinas
 
-![Ping](Imagens/Ping comunicação Kali com Meta.png)
+![Ping](Imagens/PingcomunicaçãoKalicomMeta.png)
 
 ### Scan de portas
 
-![Nmap](Imagens/Print de portas encontradas no Kali.png)
+![Nmap](Imagens/PrintdeportasencontradasnoKali.png)
 
 ### Ataque FTP com Medusa
 
-![FTP](Imagens/Ataque FTP com Medusa.png)
+![FTP](Imagens/AtaqueFTPcomMedusa.png)
 
 ### Credencial Encontrada
 
-![Credencial](Imagens/Credencial encontrada FTP com Medusa.png)
+![Credencial](Imagens/CredencialencontradaFTPcomMedusa.png)
 
 ### SMB
 
