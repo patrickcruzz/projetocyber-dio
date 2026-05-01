@@ -33,7 +33,6 @@ Foi criado um ambiente virtualizado com duas máquinas:
 8. Documentação dos resultados
 
 ## Evidências
-https://github.com/patrickcruzz/projetocyber-dio/tree/main
 
 ### Ping entre máquinas
 
