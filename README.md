@@ -34,16 +34,7 @@ Foi criado um ambiente virtualizado com duas máquinas:
 
 ## Evidências
 
-
-### Ping entre máquinas
-
-### Scan de portas
-
-### Ataque FTP com Medusa
-
-### Credencial Encontrada
-
-### SMB
+As evidências do laboratório, prints e resultados dos testes estão disponíveis na pasta `Imagens` deste repositório.
 
 ## Aprendizados
 
