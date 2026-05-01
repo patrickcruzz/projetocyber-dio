@@ -33,10 +33,9 @@ Foi criado um ambiente virtualizado com duas máquinas:
 8. Documentação dos resultados
 
 ## Evidências
-Dentro da pastas imagens.
+https://github.com/patrickcruzz/projetocyber-dio/tree/main
 
 ### Ping entre máquinas
-https://github.com/patrickcruzz/projetocyber-dio/blob/main/Imagens/Ping%20comuni%C3%A7%C3%A3o%20Kali%20com%20Meta%20.png
 
 ### Scan de portas
 
