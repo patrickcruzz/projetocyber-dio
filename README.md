@@ -34,6 +34,8 @@ Foi criado um ambiente virtualizado com duas máquinas:
 
 ## Evidências
 
+Imagens
+
 ### Ping entre máquinas
 
 ### Scan de portas
