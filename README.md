@@ -33,26 +33,17 @@ Foi criado um ambiente virtualizado com duas máquinas:
 8. Documentação dos resultados
 
 ## Evidências
+Dentro da pastas imagens.
 
 ### Ping entre máquinas
 
-![Ping](Imagens/PingcomunicaçãoKalicomMeta.png)
-
 ### Scan de portas
-
-![Nmap](Imagens/PrintdeportasencontradasnoKali.png)
 
 ### Ataque FTP com Medusa
 
-![FTP](Imagens/AtaqueFTPcomMedusa.png)
-
 ### Credencial Encontrada
 
-![Credencial](Imagens/CredencialencontradaFTPcomMedusa.png)
-
 ### SMB
-
-![SMB](Imagens/resultadoSMB.png)
 
 ## Aprendizados
 
