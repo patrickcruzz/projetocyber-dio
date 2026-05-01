@@ -40,7 +40,7 @@ Foi criado um ambiente virtualizado com duas máquinas:
 
 ### Scan de portas
 
-![Nmap](imagens/Print de portas encontradas no Kali.png)
+![Nmap](Imagens/Print de portas encontradas no Kali.png)
 
 ### Ataque FTP com Medusa
 
